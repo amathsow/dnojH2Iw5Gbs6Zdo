@@ -13,12 +13,25 @@ We recently did a survey to a select customer cohort. You are presented with a s
 
 * Y = target attribute (Y) with values indicating 0 (unhappy) and 1 (happy) customers
 * X1 = my order was delivered on time
-X2 = contents of my order was as I expected
-X3 = I ordered everything I wanted to order
-X4 = I paid a good price for my order
-X5 = I am satisfied with my courier
-X6 = the app makes ordering easy for me
+* X2 = contents of my order was as I expected
+* X3 = I ordered everything I wanted to order
+* X4 = I paid a good price for my order
+* X5 = I am satisfied with my courier
+* X6 = the app makes ordering easy for me
 
 Attributes X1 to X6 indicate the responses for each question and have values from 1 to 5 where the smaller number indicates less and the higher number indicates more towards the answer. 
+
+<b>Goal(s):</b>
+
+* Predict if a customer is happy or not based on the answers they give to questions asked.
+
+<b>Success Metrics:</b>
+
+* Reach 73% accuracy score or above, or convince us why your solution is superior. We are definitely interested in every solution and insight you can provide us.
+Try to submit your working solution as soon as possible. The sooner the better.
+
+<b>Bonus(es):</b>
+
+* We are very interested in finding which questions/features are more important when predicting a customer’s happiness. Using a feature selection approach show us understand what is the minimal set of attributes/features that would preserve the most information about the problem while increasing predictability of the data we have. Is there any question that we can remove in our next survey? 
 
 
